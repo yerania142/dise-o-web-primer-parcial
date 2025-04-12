@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shein </title>
+</head>
+<body>
+   <table border="1px" width="100%">
+    <tr><!--agregamos la primera fila de tabla-->
+        <td colspan="3">
+        <img src="https://www.ub.edu/revistaangle/wp-content/uploads/2023/01/Reportaje-2-portada-slide.png" alt="100%" width=100% height="250px">   
+           
+            <br><br><br>
+        </td>
+    </tr>
+    <tr>
+
+        <td width=20% style="vertical-align: top;">
+           <a href="index.html">inicio> </a><br><br>
+           <a href="ropa.html"> 👗ropa </a><br><br>
+           <a href="zapatos.html" >👟 zapatos </a><br><br>
+           <a href="contacto.html">📞contactos</a><br><br><br>
+           <a href="atencion al cliente.html" >🙍‍♂️atencio al cliente</a><br><br>
+
+     </td>
+         <td width=60%><br>
+            <h1 style="text-align: center;"> Bienvenidos a SHEIN</h1>
+            <p style="text-align: justify;line-height: 1.5;">
+            Shein fue fundada en Nanjing, China en 2008. El sitio web original de la marca era Sheinside.com.
+
+            En 2013, Shein tenía 100 empleados y ya había establecido su sede de 
+        
+            productos en Guanghzou, desde donde Shein utiliza un sistema de cadena de suministro ágil conocido como «venta minorista en tiempo real».4​
+            
+            En 2018, Levi Strauss & Co. demandó a la compañía por copiar una costura de jeans de marca registrada. El caso se resolvió fuera de la corte.5
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-UCKSPdWHQbmTU7EqWvDMVww7qycD1mKHw&s" alt="80%"style="float: right;">
+    
+            También en 2018, la compañía experimentó una filtración de datos que comprometió las direcciones de correo electrónico y las contraseñas cifradas de 6,42 millones de usuarios, lo que llevó a los expertos en seguridad a denunciar las «estrategias de ciberseguridad reactiva» del minorista y su incapacidad para proteger adecuadamente la información de sus clientes.6​ 
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCBIJP-Sg0o4JBrfEuHRSJhBg1VVyEmWayqA&s" alt="50"style="float: left;">
+            El 9 de mayo de 2020, SHEIN celebró un concierto promocional virtual titulado SHEIN Together que contó con los artistas Katy Perry, Lil Nas X y Doja Cat.7​
+            
+            En junio de 2020, fue prohibido en India por motivos de privacidad. En julio de 2020, se informó y retiró de la venta un polémico collar con una 
+            
+            esvástica (la marca aclaró que era una esvástica budista, no una esvástica nazi).8​
+            En mayo de 2021, fue la aplicación de compras más descargada en los Estados Unidos9​10​ Según Bloomberg Businessweek, el modelo comercial de Shein se ha beneficiado de la guerra comercial entre China y Estados Unidos.11​
+            En mayo de 2021, Shein recibió una reacción violenta por ofrecer una 
+            funda de teléfono con una imagen<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmsGBYOAQVkbu5jbylYQN9j7OOSMYoN2eZDA&s" alt="100%"style="float: right;">
+             de un hombre negro esposado delineado con tiza. Shein se disculpó por la imagen ofensiva y también por usar la imagen sin el permiso de la persona que creó el diseño.11​ El 22 de mayo de 2021, @sheinofficial tuiteó «@JaYunnaMonae Hemos eliminado el artículo por respeto a nuestra comunidad y queremos aclarar que nunca obtuvimos el permiso del artista para usar el arte que no estaba destinado a uso comercial».11​
+         
+            En 2021, varios diseñadores independientes12​ se quejaron de que Shein vendía copias no autorizadas más baratas, y hubo llamamientos a boicotear a la compañía.13​ La empresa utiliza un modelo de negocio de moda rápida que ha sido objeto de escrutinio por prácticas laborales poco éticas para lograr sus precios drásticamente bajos.<br><br><br></td> </p>
+            </td>
+            <td width=20%>publicidad</td>
+</tr>
+<tr>
+    <td
+        colspan="3" style="background-color: rgb(178, 70, 70);text-align: center;"><br> tus esenciales de armario <br>
+    </td>
+</tr>
+       
+</table>
+
+    
